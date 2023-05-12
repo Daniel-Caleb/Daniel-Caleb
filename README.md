@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/marissacaleb0" target="blank"><img src="https://img.shields.io/twitter/follow/marissacaleb0?logo=twitter&style=for-the-badge" alt="marissacaleb0" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Bootstrap, Kotlin, PHP, Java, MySQL, Android, Firebase, Cloud Computing**
+- 🌱 I’m currently learning **Python, Bootstrap, Kotlin, PHP, Java, MySQL, Android, Firebase, HTML, CSS, Cloud Computing**
 
-- 📫 How to reach me **calebmarissa5@gmail.com**
+- 📫 How to reach me **cheruiyotdanielcaleb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

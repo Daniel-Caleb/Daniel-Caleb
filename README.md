@@ -1,4 +1,3 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/vector-line-web-banner-programming-modern-linear-concept-93197344.jpg)]
 <h1 align="center">Hi 👋, Yes It's Your Guy!</h1>
 <h3 align="center">Am an aspiring Software Developer and a Cybersecurity Enthusiast.</h3>
 

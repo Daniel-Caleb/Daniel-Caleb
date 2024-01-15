@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/marissacaleb0" target="blank"><img src="https://img.shields.io/twitter/follow/marissacaleb0?logo=twitter&style=for-the-badge" alt="marissacaleb0" /></a> </p>
 
-- 🌱 I’m currently learning **Microsoft Azure Fundamentals, Cloud Computing -LearnToCloud by @madebygps Python, Tailwind CSS, Kotlin, PHP, Java, MySQL, Android, Firebase, HTML, CSS**
+- 🌱 I’m currently learning **Microsoft Azure Fundamentals, Cloud Computing using LearnToCloud, Linux, CEH-Cisco Networking Academy**
 
 - 📫 How to reach me **cheruiyotdanielcaleb@gmail.com**
 

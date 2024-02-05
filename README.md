@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, Yes It's Your Guy!</h1>
 <h3 align="center">Am an aspiring Software Developer and a Cybersecurity Enthusiast.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.ampron.eu/wp-content/uploads/2019/01/code-developer.gif">
+![coding](https://github.com/daniel-caleb/Daniel-Caleb/assets/95380895/ffd17896-4ba0-4ada-8c3d-4e8e490517ff)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-caleb&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-caleb" /> </p>
-
-<p align="left"> <a href="https://twitter.com/marissacaleb0" target="blank"><img src="https://img.shields.io/twitter/follow/marissacaleb0?logo=twitter&style=for-the-badge" alt="marissacaleb0" /></a> </p>
 
 - 🌱 I’m currently learning **Microsoft Azure Fundamentals, Junior Cybersecurity Analyst, Cloud Computing using LearnToCloud guide, CEH-Cisco Networking Academy, Linux**
 
@@ -33,6 +31,4 @@
 <img src = "https://api.githubtrends.io/user/svg/daniel-caleb/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=dark"></img>
 </a>
 
-
 ![github-wrapped](https://github.com/daniel-caleb/Daniel-Caleb/assets/95380895/ab6bbcd0-1e5b-4fa1-b023-53ed823c8012)
-

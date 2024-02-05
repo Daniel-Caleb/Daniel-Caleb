@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Yes It's Your Guy!</h1>
-<h3 align="center">Am an aspiring Software Developer and a Cybersecurity Enthusiast.</h3>
+<h3 align="center">FullStack Developer , Aspiring Cybersecurity Analyst .... still cooking!</h3>
 
 ![coding](https://github.com/daniel-caleb/Daniel-Caleb/assets/95380895/ffd17896-4ba0-4ada-8c3d-4e8e490517ff)
 

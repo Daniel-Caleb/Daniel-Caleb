@@ -27,8 +27,4 @@
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316rmftbxk7cy77jvy43g7tlyfji&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/316rmftbxk7cy77jvy43g7tlyfji)
 
-<a>
-<img src = "https://api.githubtrends.io/user/svg/daniel-caleb/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=dark"></img>
-</a>
-
 ![github-wrapped](https://github.com/daniel-caleb/Daniel-Caleb/assets/95380895/ab6bbcd0-1e5b-4fa1-b023-53ed823c8012)

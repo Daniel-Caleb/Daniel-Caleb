@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/marissacaleb0" target="blank"><img src="https://img.shields.io/twitter/follow/marissacaleb0?logo=twitter&style=for-the-badge" alt="marissacaleb0" /></a> </p>
 
-- 🌱 I’m currently learning **Microsoft Azure Fundamentals, Cloud Computing using LearnToCloud, CEH-Cisco Networking Academy, Linux**
+- 🌱 I’m currently learning **Microsoft Azure Fundamentals, Junior Cybersecurity Analyst, Cloud Computing using LearnToCloud guide, CEH-Cisco Networking Academy, Linux**
 
-- 📫 How to reach me **cheruiyotdanielcaleb@gmail.com**
+- 📫 How to reach me **cheruiyotdanielcaleb@gmail.com** / **cheruiyotdanielcaleb@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -21,14 +21,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,linux,git,py,django,postgres,postman,androidstudio,kotlin,firebase,gradle,java,azure,gcp,php,laravel,mysql,netlify,powershell,github,bootstrap,cpp,css,vscode,eclipse,html,idea,js,docker,c,vim" />
   </a>
 </p>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/cheruiyotdanielc.png" alt="TryHackMe">
-
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316rmftbxk7cy77jvy43g7tlyfji&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/316rmftbxk7cy77jvy43g7tlyfji)
 

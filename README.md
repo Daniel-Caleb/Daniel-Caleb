@@ -12,6 +12,7 @@
 - 📫 How to reach me **cheruiyotdanielcaleb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/marissacaleb0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marissacaleb0" height="30" width="40" /></a>
 <a href="https://fb.com/dannycaleb marissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dannycaleb marissa" height="30" width="40" /></a>

@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, Yes It's Your Guy!</h1>
 <h3 align="center">FullStack Developer , Aspiring Cybersecurity Analyst .... still cooking!</h3>
-
-![coding](https://github.com/daniel-caleb/Daniel-Caleb/assets/95380895/ffd17896-4ba0-4ada-8c3d-4e8e490517ff)
+<div id="header" align="center">
+  
+  ![coding](https://github.com/daniel-caleb/Daniel-Caleb/assets/95380895/ffd17896-4ba0-4ada-8c3d-4e8e490517ff)
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-caleb&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-caleb" /> </p>
 

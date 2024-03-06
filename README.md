@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-caleb&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-caleb" /> </p>
 
-- 🌱 I’m currently learning **Microsoft Azure Fundamentals, Junior Cybersecurity Analyst, Cloud Computing using LearnToCloud guide, CEH-Cisco Networking Academy, Linux**
+- 🌱 I’m currently learning **Microsoft Azure Fundamentals, Junior Cybersecurity Analyst, Cloud Computing using LearnToCloud guide, CEH-Cisco Networking Academy**
 
 - 📫 How to reach me **cheruiyotdanielcaleb@gmail.com** / **cheruiyotdanielcaleb@outlook.com**
 

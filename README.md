@@ -27,6 +27,6 @@
   </a>
 </p>
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316rmftbxk7cy77jvy43g7tlyfji&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/316rmftbxk7cy77jvy43g7tlyfji)
+[![Spotify](https://danielcalebs.vercel.app/api/spotify)](https://open.spotify.com/user/316rmftbxk7cy77jvy43g7tlyfji)
 
 ![github-wrapped](https://github.com/daniel-caleb/Daniel-Caleb/assets/95380895/ab6bbcd0-1e5b-4fa1-b023-53ed823c8012)

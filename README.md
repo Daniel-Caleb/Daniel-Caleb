@@ -27,6 +27,8 @@
   </a>
 </p>
   
-[![Spotify](https://danielcalebs.vercel.app/api/spotify)](https://open.spotify.com/user/316rmftbxk7cy77jvy43g7tlyfji)
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/316rmftbxk7cy77jvy43g7tlyfji)
+</div>
 
 ![github-wrapped](https://github.com/daniel-caleb/Daniel-Caleb/assets/95380895/ab6bbcd0-1e5b-4fa1-b023-53ed823c8012)

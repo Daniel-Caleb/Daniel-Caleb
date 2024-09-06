@@ -1,5 +1,5 @@
 <h1 align="center">привет 👋</h1>
-<h3 align="center">FullStack Developer , Aspiring Cybersecurity Analyst .... still cooking!</h3>
+<h3 align="center">FullStack Developer , Aspiring Cybersecurity Analyst, Cloud & Network Engineer .... still cooking!</h3>
 <div id="header" align="center">
   
   ![coding](https://github.com/daniel-caleb/Daniel-Caleb/assets/95380895/ffd17896-4ba0-4ada-8c3d-4e8e490517ff)
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-caleb&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-caleb" /> </p>
 
-- 🌱 I’m currently learning **Microsoft Azure Fundamentals, Junior Cybersecurity Analyst, Cloud Computing using LearnToCloud guide, CEH-Cisco Networking Academy**
+- 🌱 I’m currently working on **[The Cloud Resume Challenge - AWS](https://github.com/daniel-caleb/My-Cloud-Resume.git), [Learn to Cloud](https://learntocloud.guide/), Junior Cybersecurity Analyst, CEH-Cisco Networking Academy**
 
 - 📫 How to reach me **cheruiyotdanielcaleb@gmail.com** / **cheruiyotdanielcaleb@outlook.com**
 

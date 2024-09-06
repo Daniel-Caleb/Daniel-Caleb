@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-caleb&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-caleb" /> </p>
 
-- 🌱 I’m currently working on **[The Cloud Resume Challenge - AWS](https://github.com/daniel-caleb/My-Cloud-Resume.git), [Learn to Cloud](https://learntocloud.guide/), CEH-Cisco Networking Academy**
+- 🌱 I’m currently working on **[The Cloud Resume Challenge - AWS](https://github.com/daniel-caleb/My-Cloud-Resume.git), [Learn to Cloud](https://learntocloud.guide/) and CEH-Cisco Networking Academy**
 
 - 📫 How to reach me **cheruiyotdanielcaleb@gmail.com** / **cheruiyotdanielcaleb@outlook.com**
 
